@@ -1,0 +1,29 @@
+#loginRoot {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow-x: hidden;
+}
+
+.loginGrid {
+  margin-top: 30px !important;
+}
+
+.appName {
+  text-align: center;
+}
+
+#loginError {
+  color: red;
+}
+
+.inputIcon {
+  align-self: flex-end;
+  margin: 0 5px 5px 0;
+}
+
+.inp {
+  max-width: 80% !important;
+}

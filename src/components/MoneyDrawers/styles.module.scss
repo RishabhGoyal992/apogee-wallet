@@ -1,0 +1,41 @@
+.topText {
+  width: 80%;
+}
+
+.moneyDrawerBase {
+  height: 65vh !important;
+  width: 100%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  // background-image: url('../../images/texture2.png');
+  // background-repeat: repeat;
+  // background-position: center;
+}
+
+.moneyDrawersCommon {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+  h3 {
+    text-align: center;
+  }
+}
+
+.inputBox {
+  background: #fff;
+  width: 100%;
+}
+
+.profshowTableHead tr th {
+  color: black !important;
+  font-size: 1rem !important;
+}
+
+.profshowTableRow td {
+  font-size: 0.9rem !important;
+}

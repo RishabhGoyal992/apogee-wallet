@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'Ikaros-Light';
+  src: url('fonts/Ikaros-Light.otf');
+}
+
+@font-face {
+  font-family: 'Ikaros-Regular';
+  src: url('fonts/Ikaros-Regular.otf');
+}
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-family: 'Helvetica' !important;
+}
+
+html, body, #root{
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: inherit !important;
+  color: inherit;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.qty-display {
+  width: 15px;
+  text-align: center;
+}

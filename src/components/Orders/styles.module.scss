@@ -1,0 +1,38 @@
+.expansionTable {
+  padding: 0 24px !important;
+}
+
+.timestampDisplay {
+  font-size: 10px !important; 
+  opacity: 0.7 !important;
+}
+
+.orderSummaryContainer {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.orderNameDate {
+  display: flex;
+  flex-direction: column;
+}
+
+.orderStatus {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 65px;
+}
+
+.orderStatusVis {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+
+.otpDisableButton {
+  border: 1px solid #555555 !important;
+  color: #555555 !important;
+}
