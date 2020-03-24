@@ -7,11 +7,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Developers
 
 ### Frontend
- - Kunal Mohta ([Github](https://github.com/kunal-mohta))
- - Laksh Singla ([Github](https://github.com/LakshSingla/))
+ - Kunal Mohta 
+ - Laksh Singla
+ - Rishabh Goyal
 
 ### Backend
- - Hemanth V. Alluri ([Github](https://github.com/hypro999))
+ - Hemanth V. Alluri
 
 ## Screenshots
 <img src = "/screenshots/w1.png" alt = "Login page" width = "400"/> <img src = "/screenshots/w2.png" alt = "Profile page" width = "400"/>
